@@ -51,8 +51,7 @@ public class circular_doubly {
             head.prev = newNode;
         }
     }
-
-
+     
     // Display
     void display() {
         if (head == null) {
